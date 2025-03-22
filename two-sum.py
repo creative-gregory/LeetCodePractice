@@ -38,4 +38,4 @@ class Solution:
         # Difference: 9 - 2 == 7 
         # Is 7 in the dict? no, add 7 to the dict as key and index == 0 as value
         # Difference: 9 - 7 == 2
-        # Is 7 in the dict? yes return [taget_dict[num], index]
+        # Is 2 in the dict? yes return [taget_dict[num], index]
